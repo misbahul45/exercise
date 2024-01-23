@@ -1,0 +1,9 @@
+.inputForm{
+    width: 40rem;
+    height: 30rem;
+    border: 2px solid white;
+    padding: 20px 32px;
+    outline: none;
+    color: white;
+    border-radius:15px;
+}
